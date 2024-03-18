@@ -1,0 +1,33 @@
+{
+    "profiles": [
+      {
+        "firstname": "Michael",
+        "lastname": "Schumacher",
+        "bio": "ex pilota professionista, prima volta campione del mondo con la Benetton e poi campione con la S. Ferrari.",        
+        "tagline": "Pilota",
+        "spotify": "https://www.espn.com/f1/standings/_/season/2001",
+        "imgSrc": "styles/images/carti.jpeg",
+        "id": "carti"
+      },
+   
+      {
+        "firstname": "Tiger",
+        "lastname": "Woods",
+        "bio": "Golfiista professionista",
+        "tagline": "Golfista",
+        "spotify": "https://www.espn.com/golf/player/_/id/462/tiger-woods",
+        "imgSrc": "styles/images/ye.jpeg",
+        "id": "ye"
+      },
+   
+      {
+        "firstname": "LeBron",
+        "lastname": "James",
+        "bio": "cestista, L.A. Lakers, NBA",
+        "tagline": "Cestista",
+        "spotify": "https://www.espn.com/nba/player/_/id/1966/lebron-james",
+        "imgSrc": "styles/images/abel.jpeg",
+        "id": "abel"
+      }
+    ]
+   }
